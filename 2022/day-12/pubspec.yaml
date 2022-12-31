@@ -1,0 +1,6 @@
+name: AoC_Day12
+
+environment:
+  sdk: '>=2.10.0'
+dependencies:
+  collection: ^1.17.0

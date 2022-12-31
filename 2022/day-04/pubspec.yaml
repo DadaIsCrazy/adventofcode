@@ -1,0 +1,7 @@
+name: AoC_Day04
+
+environment:
+  sdk: '>=2.10.0'
+
+dependencies:
+  tuple: ^2.0.1
